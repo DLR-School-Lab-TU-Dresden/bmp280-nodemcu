@@ -12,3 +12,4 @@ Der Adafruit-Beispielcode läuft unverändert auf dem NodeMCU-Board. Wird nicht 
 ## Weiterführende Links
 
 - [BMP280 and ESP8266](https://myesp8266.blogspot.com/2016/12/bmp280-and-esp8266.html)
+- [Adafruit-Tutorial](https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout/overview)
